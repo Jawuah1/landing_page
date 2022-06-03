@@ -59,6 +59,10 @@ background-color:#1F2937 ;
     margin-right: 400px;
 }
 
+.hero-image{
+    margin-right: -200px;
+}
+
 .jb-tech-card{
     align-self: center;
     margin-right: 20px;
@@ -188,7 +192,7 @@ h3{
 
 .footer-wrapper{
     background-color: #1F2937;
-    margin-left: -500px;
+    margin-left: -600px;
     margin-right: -600px;
     margin-bottom: -400px;
 
